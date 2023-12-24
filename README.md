@@ -7,6 +7,18 @@
 - 🏆 Goals
   - I try to make everything that can be done easily free. I do not try to put any annoying paywalls behind it & such.
 
+- ⌨️ Projects
+  - Crashary
+  - Catary
+  - Skribblary
+  - Skribbl-Relay
+  - CommanderBox
+  - Promotional
+  - OPX-Nitro-Anywhere
+  - Yern
+  - GAAIs
+  - and more
+
 - 📫 Contacts
   - Socials
     - Discord: 104xvision
