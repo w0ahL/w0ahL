@@ -9,6 +9,7 @@
 
 - ⌨️ Projects
   - Crashary
+  - Crashary 2
   - Catary
   - Skribblary
   - Skribbl-Relay
@@ -28,7 +29,7 @@
     - [Promotional](https://discord.gg/GCywsY2DGW)
     - [Skribbler Incorporated](https://discord.gg/zhEkymMKsE)
     - [Anti P2W](https://discord.gg/antip2w)
-    - [A Black Cat](https://discord.gg/JWaZ36VgPT)
+    - [Crashary 2](https://discord.gg/JWaZ36VgPT)
     - [SMMV](https://discord.gg/MJXXdgpxYv)
   
   - 🖥️ Servers I'm owner in (Guilded)
