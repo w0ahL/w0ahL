@@ -16,21 +16,20 @@
   - CommanderBox
   - Promotional
   - OPX-Nitro-Anywhere
+  - PortalPal
   - Yern
   - GAAIs
   - and more
 
 - 📫 Contacts
   - Socials
-    - Discord: 104xvision
+    - Discord: 105xvision
     - Guilded: 104xvision
 
   - 💻 Servers I'm admin/owner in (Discord)
-    - [Promotional](https://discord.gg/GCywsY2DGW)
+    - [PortalPal](https://discord.gg/pjxD4ZTcQU)
     - [Skribbler Incorporated](https://discord.gg/zhEkymMKsE)
-    - [Anti P2W](https://discord.gg/antip2w)
     - [Crashary 2](https://discord.gg/JWaZ36VgPT)
-    - [SMMV](https://discord.gg/MJXXdgpxYv)
   
   - 🖥️ Servers I'm owner in (Guilded)
     - [Promotional](https://guilded.gg/promotional)
