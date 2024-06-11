@@ -24,12 +24,8 @@
 - 📫 Contacts
   - Socials
     - Discord: 105xvision
-    - Guilded: 104xvision
 
   - 💻 Servers I'm admin/owner in (Discord)
     - [PortalPal](https://discord.gg/pjxD4ZTcQU)
     - [Skribbler Incorporated](https://discord.gg/zhEkymMKsE)
     - [Crashary 2](https://discord.gg/JWaZ36VgPT)
-  
-  - 🖥️ Servers I'm owner in (Guilded)
-    - [Promotional](https://guilded.gg/promotional)
